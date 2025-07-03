@@ -1,0 +1,48 @@
+.validation-status {
+  border-top: 1px solid #e2e8f0;
+  padding: 16px;
+  background: #fff;
+}
+
+.validation-status.valid {
+  border-left: 4px solid #10b981;
+  background: #f0fdf4;
+}
+
+.validation-status.invalid {
+  border-left: 4px solid #ef4444;
+  background: #fef2f2;
+}
+
+.status-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.status-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.status-icon.valid {
+  color: #10b981;
+}
+
+.status-icon.invalid {
+  color: #ef4444;
+}
+
+.status-message {
+  margin: 10px 0;
+  font-size: 14px;
+  color: #374151;
+}
+
+.status-details ul {
+  margin: 0;
+  padding-left: 16px;
+  color: #dc2626;
+  font-size: 13px;
+}
