@@ -89,6 +89,11 @@ pipeline-editor/
 
 ---
 
+### Demo link with Screen Recordings & screenshots
+
+🎬 [Click here to watch the screen recording](https://www.loom.com/share/967b37eff8604ae483021c5d2be1fd03?sid=73ad3009-7805-41c6-a11a-2ca9503cc5a3)
+
+---
 ## 📚 Libraries Used & Architectural Decisions
 
 ### Key Libraries
